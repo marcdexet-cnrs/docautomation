@@ -33,13 +33,13 @@ This section describes a typical layout
 
 *Table of workflow*
 
-[cols="1,1,1,1",options="header",width=100%]
+[cols="1,1,1,1",options="header"]
 |======
 | Proposed by 
 | Role
 | Date 
 | Signature
-| Jane Doe | Quality Leader | 2017/01/01 |
+| Jane Doe | Quality Leader Foo Bar ACME | 2017/01/01 |
 h| Contributors 
 h| Role
 h| Date 
