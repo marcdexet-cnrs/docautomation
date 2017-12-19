@@ -20,9 +20,21 @@ A lot of the burden is due to various tasks and concern that could be automatabl
 * check the last version of applicable documents
 * check if the worklow has been followed
 
-TBC
+As described in <<Description_of_the_targeted_documentation>>, there's a fixed layout that can be filled using automation.
+
+[source,python]
+----
+doc = Doc()
+doc.description = generate_description_from()
+doc.build_identification_table()
+doc.build_diffusion_table()
+doc.build_table_of_change()
+doc.process()
+file = doc.generate()
+----
 
 
+[[Description_of_the_targeted_documentation]]
 == Description of the targeted documentation 
 
 Targeted documentation follows a strict layout. 
