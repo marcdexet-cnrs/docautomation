@@ -84,6 +84,8 @@ h| Signature
 
 === On each page
 
+==== HEADER
+
 Each page MUST have a header that consists of a table with three parts
 
 * on left: organisation logos
@@ -105,6 +107,9 @@ Page: 1 of 8
 | Consortium name and logo ||
 |===============
 
+==== FOOTER
+
+each page MUST have a legal notice as footer
 
 == Reference
 
