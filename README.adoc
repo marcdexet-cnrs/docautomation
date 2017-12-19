@@ -1,0 +1,58 @@
+= Docautomation
+
+== Goals
+
+* To produce set of documentation following Quality Standards
+* To limit the burden of gathering information without added value
+* To manage and configure documentation as code
+* To not repeat yoursef (DRY)
+
+== Description of the targeted documentation 
+
+Targeted documentation follows a strict layout. 
+
+This section describes a typical layout
+
+=== On the first page
+
+*Identification table*
+
+[cols="1,2,1,3"]
+|=============================================
+|Title : 
+3.+|Documentation automation roadmap description
+|Date: 
+|2017/12/19 
+|Issue: 
+|0.2
+|Reference: 
+3.+|[[Ref]]ACME-FOO-SDD-0018
+|Custodian: 
+3.+|John Doe
+|=============================================
+
+*Table Of Change*
+
+[cols="2,2,1,5,5",options="header",]
+|==============================================================
+|Issue |Date |Pages |Description of changes |Comments
+|Draft 0.1 |17/07/12 | all |First draft |
+|Issue 1 |17/08/12 | 12 |Includes M. Foo comments |
+|Issue 2 |17/06/13 | 1-5 |John Doe replaces Foo Bar |
+|Issue 2.1 |18/11/13 | 1 |Jane Doe added |
+|Issue 2.2 |18/02/15 | 8 |FOO ACME leader updated |
+|Issue 2.3 |18/06/15 | all | Upgrade to FOO-ACME-Design rules|
+|==============================================================
+
+
+=== On each page
+
+Each page MUST have a header that consists of a table with three parts
+
+* on left: organisation logos
+* on center: Title
+* on right
+** document identification (i.e. reference), 
+** version 
+** date 
+** current page number over the total page number (i.e. page: _X_/_last_page_number_ )
