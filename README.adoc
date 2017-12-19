@@ -1,4 +1,6 @@
 = Docautomation
+:toc:
+:toclevels: 4
 
 == Goals
 
