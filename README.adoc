@@ -94,6 +94,17 @@ Each page MUST have a header that consists of a table with three parts
 ** date 
 ** current page number over the total page number (i.e. page: _X_/_last_page_number_ )
 
+[cols="1,3,2"]
+|===============
+| Agency name and logo
+.2+^| Very long title acme foo bar 
+.2+| Reference: FOO-ACME-A-0021 +
+Version: 0.2 +
+Date: 17/12/19 +
+Page: 1 of 8
+| Consortium name and logo ||
+|===============
+
 
 == Reference
 
