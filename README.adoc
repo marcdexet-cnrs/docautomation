@@ -198,6 +198,13 @@ The 5th page MUST have a list of _Acronyms and abbreviations_
 |KEY | Long description of the acronym
 |======
 
+== Tools
+
+* pandoc
+* dblatex
+* docbook
+* XSL-FO
+
 == Reference
 
 * Take a look at https://github.com/Open-MBEE/docbookgen
