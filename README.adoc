@@ -9,6 +9,20 @@
 * To manage and configure documentation as code
 * To not repeat yoursef (DRY)
 
+== Vision
+
+A engineer has no added value into fighting with que quality process. We have to help her.
+A lot of the burden is due to various tasks and concern that could be automatable.
+
+* build an exact reference for the document according to a pattern
+* update version number
+* include exact reference from applicable documents
+* check the last version of applicable documents
+* check if the worklow has been followed
+
+TBC
+
+
 == Description of the targeted documentation 
 
 Targeted documentation follows a strict layout. 
