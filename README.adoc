@@ -113,6 +113,65 @@ Page: 1 of 8
 
 each page MUST have a legal notice as footer
 
+=== On the second page
+
+Second page MUST have a table of content
+
+=== On the third page
+
+The third page MUST have section about _Purpose and scope_ of the document
+
+=== On the fourth page
+
+The fouth page MUST have a Documents section. This section consusts of two mandatory tables
+
+* Applicable Documents
+* Reference Documents
+
+
+.Applicable documents
+[cols="1,6,3,1",options="header",]
+|===========================================================================
+|AD 
+|Title/Author 
+|Ref. 
+|Issue
+|Date
+
+|1 
+|CCTP Convention CNES/INSU N°9999999 Phases B2 & C1 
+| FOO-MG-SOW-156-CNES 
+| 0.3
+|03/03/2015
+
+|===========================================================================
+
+.Reference documents
+[cols="1,6,3,1",options="header",]
+|===========================================================================
+|RD 
+|Title/Author 
+|Ref. 
+|Issue
+|Date
+
+|1 
+|CCTP Convention CNES/INSU N°9999999 Phases B2 & C1 
+| FOO-MG-SOW-156-CNES 
+| 0.3
+|03/03/2015
+
+|===========================================================================
+
+=== On the fith page 
+
+The 5th page MUST have a list of _Acronyms and abbreviations_
+
+[cols="1,4",grid=none]
+|======
+|KEY | Long description of the acronym
+|======
+
 == Reference
 
 * Take a look at https://github.com/Open-MBEE/docbookgen
